@@ -1,0 +1,6 @@
+../Src/main.c:52:6:DebugPortInit	1
+../Src/main.c:75:5:main	3
+../Src/main.c:144:6:compute_convolution	3
+../Src/main.c:158:6:plotSignal	2
+../Src/main.c:191:13:SystemClock_Config	3
+../Src/main.c:237:13:Error_Handler	1
